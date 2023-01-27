@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I am a computer science senior at the American University of Beirut who is very eager to put all the skills and strategies I have learned to use in order to make mindblowing products with amazing teams.
+- 🔭 I am a Software Developer who is very eager to put all the skills and strategies I have learned to use in order to make mindblowing products with amazing teams.
+- 🌱 I’m currently focused on web development with Node Js as the main tech.
 - ⚡ Fun fact: If there's one thing I love more than computer science, that would be sports. I would love to do something that combines thoese two fields, so if you got any ideas...I am the person to talk to.
 
 
