@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🔭 I am a Software Developer who is very eager to put all the skills and strategies I have learned to use in order to make mindblowing products with amazing teams.
-- 🌱 I’m currently focused on web development with Node Js as the main tech.
-- ⚡ Fun fact: If there's one thing I love more than computer science, that would be sports. I would love to do something that combines thoese two fields, so if you got any ideas...I am the person to talk to.
-
+I’m completing my Master’s in Embedded Computing Systems (EMECS), specializing in embedded intelligence, machine learning deployment, and hardware–software system design. I’m passionate about embedded ML, edge AI, efficient model deployment, and performance‑optimized embedded architectures.
+I hold a Bachelor’s degree in Computer Science from the American University of Beirut, which built the foundation for my interest in intelligent systems and cross‑layer optimization.
+I thrive in diverse, multicultural teams and enjoy working on complex problems that bridge algorithms with real hardware. I’m currently seeking opportunities as an Embedded ML Engineer, Embedded Systems Engineer, Edge AI Engineer, or Hardware–Software Engineer, where I can contribute to impactful, innovative products at the intersection of ML and embedded technology.
 
 <!--
 **nlb01/nlb01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
